@@ -1,3 +1,4 @@
+// recall: an object is an instance of a class
 public class MyClass {
     // one staticCounter variable, shared by all objects
     // note: cannot have static local variable in Java
